@@ -1,6 +1,9 @@
 # Metastability-Containing-Hardware-Final-Project
 The project offering detailed insights into circuit behaviors, metastability issues, and logic gate performance. It serves as an educational aid in understanding and designing complex digital logic circuits and provides practical solutions for handling metastability in circuit design.
 
+# Explanation_PDF about the code (23 Pages):
+## https://github.com/YanivHajaj/Metastability-Containing-Hardware-Final-Project/blob/main/Explanation_PDF_Metastability-Containing%20Hardware%20Final%20Project.pdf
+
 # Digital Logic Simulation and Analysis Tool
 
 This repository contains a Python script designed for digital logic simulation, focusing on metastability detection, Boolean expression evaluation, and circuit simulation. It provides tools for detecting unstable states in digital circuits and evaluating complex Boolean expressions based on different input conditions.
